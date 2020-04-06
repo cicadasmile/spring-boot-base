@@ -1,6 +1,6 @@
 # 参考文章
 
-<b>SpringBoot整合中间件：【[GitHub·点这里]】(https://github.com/cicadasmile/middle-ware-parent) || 【[GitEE·点这里]】(https://gitee.com/cicadasmile/middle-ware-parent)</b>
+<b>SpringBoot整合中间件：【[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)】 || 【[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)】</b>
 
 |序号|文章标题|
 |:---:|:---|
