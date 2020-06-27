@@ -28,8 +28,17 @@
 SpringBoot2 基础教程，日志配置，数据源配置，事务管理等。
 
 ## 关于作者
-【<b>公众号：知了一笑</b>】    【<b><a href="https://www.zhihu.com/people/cicadasmile/columns">知乎专栏</a></b>】<br/>
-<img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
+<p align="left">
+<img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/d9affbe553a2f8bb9df59e54eeac691b67969328/blog-image/gzhinfo.svg" alt="公众号">
+<a href="https://gitee.com/cicadasmile"><img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/c17c866e6960b743e3c350be35bb76cf1fe5bf29/blog-image/gitee.svg" alt="码云"></a>
+<a href="https://www.zhihu.com/people/cicadasmile/columns"><img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/1c25aa84f894b441e34ef86b6335c451bec32cae/blog-image/zhihu.svg" alt="知乎"></a>
+<a href="https://www.jianshu.com/u/5a26c8e51f73"><img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/d9affbe553a2f8bb9df59e54eeac691b67969328/blog-image/jianshu.svg" alt="简书"></a>
+<a href="https://www.cnblogs.com/cicada-smile/"><img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/d9affbe553a2f8bb9df59e54eeac691b67969328/blog-image/bky.svg" alt="博客园"></a>
+<a href="https://blog.csdn.net/cicada_smile"><img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/d9affbe553a2f8bb9df59e54eeac691b67969328/blog-image/csdn.svg" alt="CSDN"></a>
+</p>
+
+<img width="700px" height="270px" src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/master/blog-image/img-gz.jpg"/><br/>
+
 
 ## 推荐项目
 
