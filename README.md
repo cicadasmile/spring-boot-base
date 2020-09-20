@@ -51,4 +51,5 @@ SpringBoot2 基础教程，日志配置，数据源配置，事务管理等。
 |05|SpringBoot框架基础应用入门到进阶|[GitHub·点这里](https://github.com/cicadasmile/spring-boot-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)|☆☆☆☆|
 |06|SpringBoot框架整合开发常用中间件|[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)|☆☆☆☆☆|
 |07|数据管理、分布式、架构设计基础案例|[GitHub·点这里](https://github.com/cicadasmile/data-manage-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/data-manage-parent)|☆☆☆☆☆|
+|08|大数据系列、存储、组件、计算等框架|[GitHub·点这里](https://github.com/cicadasmile/big-data-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/big-data-parent)|☆☆☆☆☆|
 
