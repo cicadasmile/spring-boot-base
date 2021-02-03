@@ -1,4 +1,10 @@
-# 参考文章
+## 阅读标签
+
+【[Java基础](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1342230680016683009#wechat_redirect)】【[设计模式](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1709518416274833422#wechat_redirect)】【[结构与算法](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1709518416274833422#wechat_redirect)】【[Linux系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1334314473573744641#wechat_redirect)】【[数据库](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1376212870744358913#wechat_redirect)】<br/>
+【[分布式架构](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1327025063014596608#wechat_redirect)】【[微服务](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1460269376221200386#wechat_redirect)】【[大数据组件](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1701021199339667459#wechat_redirect)】【[SpringBoot进阶](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1425309486268661760#wechat_redirect)】【[Spring&Boot基础](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1461797173297135618#wechat_redirect)】<br/>
+【[数据分析](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1695231212027428866#wechat_redirect)】【[技术导图](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1506615482391511042#wechat_redirect)】【 [职场](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4Njg0MzYwNw==&action=getalbum&album_id=1719834087936278530#wechat_redirect)】
+
+## 参考文章
 
 <b>SpringBoot整合中间件：【[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)】 || 【[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)】</b>
 
